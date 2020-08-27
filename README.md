@@ -1,2 +1,2 @@
 # webfluxSample
-functional webflux sample project with resttemplate client
+functional webflux sample project
